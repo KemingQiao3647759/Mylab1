@@ -2,4 +2,4 @@
 
 And if you write here, you get a paraph
  
-  *This is going to be an ite
+  *This is going to be an item
